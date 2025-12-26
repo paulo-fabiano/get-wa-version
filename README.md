@@ -4,3 +4,14 @@ O objetivo desse script é pegar a versão mais atualizada do WhatsApp Web para 
 
 Sinta-se a vontade para fazer um Fork e utilizar também caso você use automações com N8N e EvolutionAPI.
 
+## Dockerfile
+
+A saída do Script é:
+
+```
+{
+  "app": "whatsapp-web",
+  "version": "2.3000.1030825052",
+  "collected_at": "2025-12-26T21:01:30Z"
+}
+```
